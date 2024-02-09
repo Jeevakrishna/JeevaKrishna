@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Jeeva+Krishna!;" />
@@ -12,9 +12,9 @@
  
  🔭 I’m currently student in **Sastra University**
  
- 🌱 I’m currently learning **Flutter, React js**
+ 🌱 I’m currently learning **Virtual Reality,Flutter, React js**
 
-💬 Ask me about **Game design ,unity, character design... or anything [here](https://github.com/Jeevakrishna/Jeevakrishna/issues)**
+💬 Ask me about **Game design ,Web development ,Webgames,unity, character design... or anything [here](https://github.com/Jeevakrishna/Jeevakrishna/issues)**
 
  </div>
  
@@ -40,24 +40,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,git,tailwind,javascript" />
+    <img src="https://skillicons.dev/icons?i=unity,blender,c#.cpp,firebase,mongodb,java,mysql,threejs,python,flutter,figma" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🔥 My Stats 🔥</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Jeevakrishna&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -67,6 +59,17 @@
 </div>
 
 <br/><br/>
+
+
+<div align="center">
+  <h2>🐉 My Contributions 🐉</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 <hr/>
 
