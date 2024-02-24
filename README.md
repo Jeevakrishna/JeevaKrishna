@@ -19,7 +19,7 @@
  
  🌱 I’m currently learning **Virtual Reality,Flutter, React js**
 
-💬 Ask me about **Game design ,Web development ,Webgames,unity, character design... or anything [here](https://github.com/Jeevakrishna/Jeevakrishna/issues)**
+💬 Ask me about **Game design ,blender modelling ,Webgames,unity, character design... or anything [here](https://github.com/Jeevakrishna/Jeevakrishna/issues)**
 
  </div>
  
@@ -45,8 +45,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=unity,blender,cpp,mongodb,java,mysql,threejs,python,flutter,firebase,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=unity,blender,cpp,mongodb,java,mysql,threejs,python,flutter,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git,tailwind" />
+   
 </div>
 
 <br/>
