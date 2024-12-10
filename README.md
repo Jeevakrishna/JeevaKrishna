@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=EC7063&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Everyone!+👋;+I'm+Jeeva+Krishna!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=white&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Everyone!+👋;+I'm+Jeeva+Krishna!;" alt="Typing SVG" />
 
 
 
@@ -47,7 +47,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=unity,blender,cpp,mongodb,java,mysql,threejs,python,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react js,vscode,github,git,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react js,vscode,github,git,tailwind,nextjs,typescript,drizzle" />
    
 </div>
 
