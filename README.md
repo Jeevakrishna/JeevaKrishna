@@ -9,7 +9,7 @@
  
 </h1>
 
-<h3 align="center"> developer and Designer </h3>
+<h3 align="center"> Developer and Designer </h3>
 
 <br/>
 
