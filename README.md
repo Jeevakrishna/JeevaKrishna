@@ -1,2 +1,3 @@
-<img src="https://raw.githubusercontent.com/Jeevakrishna/Jeevakrishna/main/jobs1.jpg" alt="Design & Developer Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/Jeevakrishna/Jeevakrishna/main/job.png" alt="I want to put ding in the universe Banner
+  " style="width:100%;"/>
 
